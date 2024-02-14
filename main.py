@@ -8,7 +8,7 @@ pygame.init()
 
 cascade_for_bird = cv2.CascadeClassifier('bird1.xml')
 
-cap = cv2.VideoCapture("Birds.mp4")
+cap = cv2.VideoCapture("finalbird.mp4")
 
 pygame.mixer.init()
 
